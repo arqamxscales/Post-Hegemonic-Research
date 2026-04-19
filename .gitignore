@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Apple Pages temp/backup files
+*.pages~
+*.tmp
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
